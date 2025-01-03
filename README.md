@@ -15,4 +15,11 @@ This project analyzes electric vehicle (EV) sales trends in India using Power BI
 - Dashboard Interaction <a href="https://github.com/thecodingraj/EV-Sales-Analysis/commit/686ff79669ae900a009d9a685bf99b8ef69f025a">View Dashboard</a>
 
 ## Process
-  
+- Gathered and cleaned EV sales data to ensure consistency and accuracy.
+- Analyzed trends across years, months, states, and vehicle types to extract valuable insights.
+- Designed an interactive Power BI dashboard with charts, KPIs, and filters for effective visualization.
+- Presented key findings through the dashboard to support data-driven decision-making.
+
+  ## Dashboard
+  ![Screenshot 2025-01-03 225339](https://github.com/user-attachments/assets/c1894035-e7c3-4bfa-8570-a6f0e570ce77)
+
