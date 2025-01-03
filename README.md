@@ -23,3 +23,11 @@ This project analyzes electric vehicle (EV) sales trends in India using Power BI
   ## Dashboard
   ![Screenshot 2025-01-03 225339](https://github.com/user-attachments/assets/c1894035-e7c3-4bfa-8570-a6f0e570ce77)
 
+  ## Project Insight
+  - Uttar Pradesh, Maharashtra, and Karnataka are the top-performing states in EV sales, while Andaman, Ladakh, and Sikkim have the lowest sales.
+  - 2-wheelers dominate EV sales, followed by 3-wheelers, showing a strong preference for smaller vehicles.
+  - EV adoption has grown significantly since 2020, with a peak in 2023 driven by incentives and increasing demand.
+  - Sales tend to Increase in certain months like March and October, likely due to festive seasons or promotions.
+ 
+  ## Final Conclusion:
+  The project successfully analyzed EV sales data, uncovering key trends and insights. The interactive Power BI dashboard provides a comprehensive view of state-wise performance, vehicle preferences, and growth trends. These insights can aid stakeholders in making informed decisions about market strategies, product focus, and regional investments, ultimately promoting the adoption and development of electric vehicles in India.
