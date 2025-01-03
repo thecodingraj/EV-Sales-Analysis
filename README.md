@@ -12,4 +12,7 @@ This project analyzes electric vehicle (EV) sales trends in India using Power BI
 - Distribution of EV sales by vehicle category, and type.
 - What is Total Sales Quantity
 - what is Average Quantity
+- Dashboard Interaction <a href="https://github.com/thecodingraj/EV-Sales-Analysis/commit/686ff79669ae900a009d9a685bf99b8ef69f025a">View Dashboard</a>
+
+## Process
   
