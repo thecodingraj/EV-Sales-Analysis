@@ -1,4 +1,4 @@
-# EV-Sales-Data-Analysis (Interactive Dashboard Creation using Power BI)
+# Electic Vehicle-Sales-Data-Analysis (Interactive Dashboard Creation using Power BI)
 ## Project Objective 
 This project analyzes electric vehicle (EV) sales trends in India using Power BI. It provides actionable insights through visualizations for better decision-making. The analysis focuses on state-wise sales, vehicle categories, and year-over-year trends.
 
