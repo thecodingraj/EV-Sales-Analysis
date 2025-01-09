@@ -21,7 +21,7 @@ This project analyzes electric vehicle (EV) sales trends in India using Power BI
 - Presented key findings through the dashboard to support data-driven decision-making.
 
 ## Dashboard
-![Screenshot 2025-01-03 225339](https://github.com/user-attachments/assets/c1894035-e7c3-4bfa-8570-a6f0e570ce77)
+![Screenshot 2025-01-09 194823](https://github.com/user-attachments/assets/fa16343d-5cce-4a31-9a1a-b8e8a206389d)
 
 ## Project Insight
 - Uttar Pradesh, Maharashtra, and Karnataka are the top-performing states in EV sales, while Andaman, Ladakh, and Sikkim have the lowest sales.
