@@ -12,7 +12,7 @@ This project analyzes electric vehicle (EV) sales trends in India using Power BI
 - Distribution of EV sales by vehicle category, and type.
 - What is Total Sales Quantity
 - what is Average Quantity
-- Dashboard Interaction <a href="https://github.com/thecodingraj/EV-Sales-Analysis/commit/686ff79669ae900a009d9a685bf99b8ef69f025a">View Dashboard</a>
+- Dashboard Interaction <a href="">View Dashboard</a>
 
 ## Process
 - Gathered and cleaned EV sales data to ensure consistency and accuracy.
@@ -30,4 +30,4 @@ This project analyzes electric vehicle (EV) sales trends in India using Power BI
 - Sales tend to Increase in certain months like March and October, likely due to festive seasons or promotions.
  
 ## Final Conclusion:
-The project successfully analyzed EV sales data, uncovering key trends and insights. The interactive Power BI dashboard provides a comprehensive view of state-wise performance, vehicle preferences, and growth trends. These insights can aid stakeholders in making informed decisions about market strategies, product focus, and regional investments, ultimately promoting the adoption and development of electric vehicles in India.
+The dashboard highlights key areas where credit card service providers can enhance their customer support processes. By addressing frequent complaint types and optimizing resolution times, companies can improve customer trust and loyalty. The data-driven insights from this project offer a strategic approach to reducing complaint volumes and enhancing service quality.
